@@ -1,5 +1,5 @@
 {
-  "name": "outl1ne/nova-translations-loader",
+  "name": "optimistdigital/nova-translations-loader",
   "description": "This Laravel Nova package helps developers load translations into their packages.",
   "keywords": [
     "laravel",
@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Outl1ne\\NovaTranslationsLoader\\": "src/"
+      "OptimistDigital\\NovaTranslationsLoader\\": "src/"
     }
   },
   "extra": {
